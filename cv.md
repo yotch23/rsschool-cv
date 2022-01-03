@@ -1,8 +1,8 @@
-# # Aliaksei Rudziak
+# # Rudziak Aliskdei
 ## **Contacts:**
 Email: sonicyotch@gmail.com
 Telegram: @yotch
-## Information about me:
+## Information about megit:
 I work in support of a gambling project. Highly motivated to become a front-end developer.
 ## Work Expreience:
 I have no work experience, but now I am taking the course "JS / FRONT-END. STAGE 0".
